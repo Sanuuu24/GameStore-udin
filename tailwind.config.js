@@ -1,4 +1,4 @@
-export default = {
+export default {
   content: [
     "./index.html",
     "./src/**/*.{js,ts,jsx,tsx}",
@@ -8,12 +8,12 @@ export default = {
       colors: {
         'game-dark': '#121212',
         'game-primary': '#3B82F6',
-        'game-secondary': '#10B981'
+        'game-secondary': '#10B981',
       },
       fontFamily: {
-        'game-sans': ['Inter', 'sans-serif']
-      }
+        'game-sans': ['Inter', 'sans-serif'],
+      },
     },
   },
   plugins: [],
-}
+};
